@@ -1,5 +1,5 @@
 # BaseballChromeExtension
-Combining two of my greatest passions, coding and baseball, this Chrome Extension applies an epic 2018 season baseball image to each new tab!
+Combining two of my greatest passions, coding and baseball, this Chrome Extension applies an epic image from the 2018 MLB season to each new tab!
 
 # Installation
 Requires BeautifulSoup, runs in Python and html.
